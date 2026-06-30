@@ -1,0 +1,10 @@
+# working / regenerable artifacts
+.scratch/
+.work/
+__pycache__/
+*.log
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
